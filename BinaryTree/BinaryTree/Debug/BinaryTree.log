@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\boriso_o\source\repos\binarytree\binarytree\source.cpp(20): warning C4101: 'count_sw': unreferenced local variable
+  BinaryTree.vcxproj -> C:\Users\BorisO_o\Source\Repos\BinaryTree\Debug\BinaryTree.exe
